@@ -1,3 +1,31 @@
-url: 'https://www.controlledflight.ca'
-name: 'Controlled Flight Into Terrain'
-description: 'Everything was going just fine until we ran into the real world'
+url: "https://www.controlledflight.ca"
+title: "Controlled Flight Into Terrain"
+description: "Everything was going just fine until we ran into the real world"
+
+author:
+  name: "Irving Reid"
+
+social:
+  github: https://github.com/irvingreid
+  mastodon: https://hachyderm.io/@irvingreid
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+theme: tale
+
+permalink:      /:year/:month/:day/:title
+paginate:       10

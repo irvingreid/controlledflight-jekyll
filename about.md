@@ -3,7 +3,7 @@ id: 2
 title: About
 date: '2007-04-27T22:42:10-04:00'
 author: irving
-layout: page
+layout: default
 ---
 
 Controlled Flight Into Terrain is written by Irving Reid (@irvingreid on [Mastodon](https://hachyderm.io/@irvingreid)), a software developer living and working in Toronto, Canada.

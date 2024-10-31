@@ -3,7 +3,7 @@ id: 181
 title: 'Irving Reid'
 date: '2014-11-08T11:17:14-05:00'
 author: irving
-layout: page
+layout: default
 guid: 'http://www.controlledflight.ca/?page_id=181'
 ---
 
