@@ -9,18 +9,20 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.4"
 
-gem "tale"
+# gem "tale"
+
+gem "jekyll-whiteglass"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-# group :jekyll_plugins do
+group :jekyll_plugins do
 #   gem "jekyll-remote-theme"
-#   gem "jekyll-gist"
-#   gem "jekyll-paginate"
-# end
+#   gem "jekyll-feed"
+#   gem "jekyll-seo-tag"
+end
 
 # Gems that will be removed from core Ruby
 gem "logger"

@@ -2,8 +2,7 @@ url: "https://www.controlledflight.ca"
 title: "Controlled Flight Into Terrain"
 description: "Everything was going just fine until we ran into the real world"
 
-author:
-  name: "Irving Reid"
+author: "Irving Reid"
 
 social:
   github: https://github.com/irvingreid
@@ -19,13 +18,35 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
-# Gems
+# remote_theme: irvingreid/jekyll-theme-terrain
+theme: jekyll-whiteglass
 plugins:
-  - jekyll-feed
+  - jekyll-archives
+  - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-seo-tag
+  # - jekyll-feed
 
-theme: tale
 
 permalink:      /:year/:month/:day/:title
+paginate_path: /page/:num/
 paginate:       10
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: category_archives
+  permalinks:
+    category: /category/:name/
+    tag: /tags/:name/
+
+# Related posts settings
+# related_posts_section:
+#   max_count:        5
+#   min_common_tags:  1
+
+# Links to social media
+social:
+  github: https://github.com/irvingreid
+  mastodon: https://hachyderm.io/@irvingreid
+  linkedin: https://www.linkedin.com/in/irving-reid/
