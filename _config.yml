@@ -19,13 +19,11 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
-# remote_theme: irvingreid/jekyll-theme-terrain
 theme: jekyll-whiteglass
 plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-paginate
-  # - jekyll-feed
 
 
 permalink:      /:year/:month/:day/:title
@@ -40,11 +38,6 @@ jekyll-archives:
   permalinks:
     category: /category/:name/
     tag: /tags/:name/
-
-# Related posts settings
-# related_posts_section:
-#   max_count:        5
-#   min_common_tags:  1
 
 # Links to social media
 social:

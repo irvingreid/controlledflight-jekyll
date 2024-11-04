@@ -7,9 +7,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.4"
 
-# gem "tale"
+gem "jekyll", "~> 4.3.4"
 
 gem "jekyll-whiteglass"
 
@@ -19,9 +18,6 @@ gem "jekyll-whiteglass"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-#   gem "jekyll-remote-theme"
-#   gem "jekyll-feed"
-#   gem "jekyll-seo-tag"
 end
 
 # Gems that will be removed from core Ruby
