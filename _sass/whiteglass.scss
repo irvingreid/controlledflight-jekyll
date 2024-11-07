@@ -1,5 +1,6 @@
 // Define defaults for each variable.
-$base-font-family: Bitter, "Apple SD Gothic Neo", "Noto Sans", "Source Han Sans", "Noto Sans CJK JP", "Source Han Sans JP", "Noto Sans CJK KR", "Source Han Sans KR", NanumBarunGothic, AppleGothic, "Malgun Gothic", Dotum, sans-serif !default;
+// TODO: factor out a local overrides file for these
+$base-font-family: Palatino, "Times New Roman", Times;
 $monospace-font-family: Monaco, Menlo, Consolas, "Courier New", DotumChe, monospace !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
@@ -41,7 +42,9 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
+  "whiteglass/custom-variables",
   "whiteglass/base",
   "whiteglass/layout",
-  "whiteglass/syntax-highlighting"
+  "whiteglass/syntax-highlighting",
+  "whiteglass/custom-styles.scss"
 ;

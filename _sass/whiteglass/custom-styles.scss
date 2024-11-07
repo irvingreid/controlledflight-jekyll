@@ -1,0 +1,40 @@
+.site-header {
+  min-height: $header-spacing;
+  .site-title {
+    font-size: $base-font-size * 2;
+  }
+}
+
+.site-title {
+  font-size: $base-font-size * 1.5;
+  line-height: $header-spacing;
+  letter-spacing: unset;
+  font-variant: small-caps;
+  & {
+    color: $text-color;
+  }
+}
+
+.site-nav {
+  line-height: $header-spacing;
+}
+
+.site-footer {
+  font-size: $base-font-size * 0.8;
+}
+
+.page-heading {
+  font-size: $base-font-size * 1.25;
+}
+
+.post-list {
+  .post-title {
+    font-size: $base-font-size * 1.5;
+  }
+}
+
+.post-archives {
+  .post-link {
+    font-size: $base-font-size * 1.25;
+  }
+}
