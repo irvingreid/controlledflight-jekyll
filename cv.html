@@ -1,133 +1,84 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <meta charset="utf-8"/>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Irving Reid</title>
   <style type="text/css">
-    html {
-      position: relative;
-    }
-    body {
-      display: block flex;
-      position: relative;
-      font-size: 16px;
-    }
-    .page {
-      margin: 3% 8% 3% 5%;
-      position: relative;
-    }
-    .sidebar {
-      margin: 5% 0 0 3%;
-      position: -webkit-sticky;
-      position: sticky;
-      align-self: flex-start;
-      height: auto;
-      white-space: nowrap;
-      top: 5%;
-    }
     * {
       font-family: Palatino, "Times New Roman", Times, serif;
-      line-height: 23px;
+      line-height: 1.5rem;
+    }
+
+    body {
+      margin: 5% auto;
+      max-width: 48rem;
+      padding: 0 2rem;
     }
 
     h1 {
-      font-size: 23px;
       font-weight: bold;
-      line-height: 30px;
-      position: relative;
-    }
-
-    .no-break {
-      break-inside: avoid;
     }
 
     h2 {
-      margin-top: 23px;
-      font-size: 18px;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
       font-weight: bold;
-      position: relative;
     }
 
     p {
       font-weight: normal;
-      position: relative;
+      clear: right;
     }
 
+    .one-line {
+      white-space: nowrap;
+      font-size: large;
+      @media screen and (min-width: 40rem) {
+        font-size: x-large;
+      }
+      line-height: 3rem;
+    }
     .rj {
       float: right;
-      margin-right: 8%;
-      position: inherit;
-    }
-    @media print {
-      body {
-        display: block flow;
-        orphans: 2;
-      }
-      .sidebar {
-        margin: 0 0 0 0;
-        padding: 0 3% 5% 0;
-      	font-size: 10px;
-        position: relative;
-      	float: left;
-      	height: auto;
-      }
-      .page {
-        margin: 0 0 0 0;
-        font-size: 12px;
-      }
-      h1 {
-        font-size: 18px;
-        break-after: avoid;
-      }
-      h2 {
-        margin-top: 16px;
-        font-size: 14px;
-        break-after: avoid;
-      }
-      p {
-        orphans: 2;
-      }
-      .rj {
-        margin-right: 5%;
-      }
+      font-size: smaller;
+      margin-bottom: 1rem;
     }
   </style>
 </head>
+
 <body>
-  <div class="sidebar">
-    Irving Reid<br>
-    irving.reid@gmail.com<br>
-    <a href="https://www.linkedin.com/in/irving-reid">www.linkedin.com/in/irving-reid</a><br>
-    <a href=https://hachyderm.io/@irvingreid">@irvingreid@hachyderm.io</a><br>
-  </div>
-  <div class="page">
 <h1>
 Irving Reid
-<br>
+<div class="one-line">
 Senior/Staff Software Developer
+</div>
 </h1>
 <p>
 My strength is seeing beyond the “full stack”; diving in to understand the
 details of OS implementation and Internet protocol behaviour or to untangle the
 hairiest operational mysteries, while looking outward to the motivations of the
 people making, using and paying for software-based systems.
+</p>
 <p>
-I've worked on high availability monolith+microservice SAAS, multi-million user open
+I've worked on high availability monolith + microservice SAAS, multi-million user open
 source (Firefox and Thunderbird), high performance network services in C and
 C++, and access management at both the policy and network level. My career has
 ranged over Web security standards committees, network security, enterprise
 architecture, multi-tier applications, embedded microcontrollers, systems
 administration, and the human and organizational side of software development.
+</p>
 <p>
 Ruby, Elixir, JavaScript, Scala, C++, Java, C, Perl, Python, Shell, ... on all major OS
 platforms. MySQL and other SQL DBs, Kafka, Kubernetes, Nomad, LDAP, SAML, AWS, OpenTelemetry,
 and so on. If there's a technology you're using and you need more in-house expertise,
 I'll dig in and learn it.
+</p>
 <p>
 Revision control, issue tracking, CI/CD, automated testing, manageable infrastructure, and
 high-bandwidth telemetry and monitoring of production systems are all
 table stakes; I'll work with whatever you're using or help you move to something better.
-
 <h2>
 Senior Software Developer<span class="rj">PagerDuty, 2015 - 2024</span>
 </h2>
@@ -148,7 +99,6 @@ Implemented and advocated for OpenTelemetry-style structured logging, leading to
 significant improvements in understanding system behaviour during both normal
 operation and incidents.
 
-<div class="no-break">
 <h2>
 Senior Software Developer<span class="rj">Mozilla Corporation, 2011 - 2014</span>
 </h2>
@@ -165,7 +115,6 @@ developers.
 <p>
 Mentored volunteer contributors through the process of learning to contribute
 code changes to Firefox and Thunderbird.
-<div class="no-break">
 <h2>
 Technical Architect<span class="rj">University Health Network, 2007 - 2011</span>
 </h2>
@@ -211,14 +160,12 @@ Participated in division- and company-wide architecture councils.
 
 Provided technical leadership to team ranging from 5 to 15 programmers through
 many product release cycles.
-<div class="no-break">
 <h2>
 Senior Software Developer<span class="rj">Border Network Tech / Secure Computing, 1995 - 1998</span>
 </h2>
 <p>
 System architect for the SecureZone firewall, a 20 person-year project to
 develop a next generation Internet security gateway.
-</div>
 <p>
 Design, team leadership and implementation of the server side of the
 client-server administration interface for SecureZone (Perl/CORBA).
@@ -241,7 +188,6 @@ queuing of jobs on UNIX platforms.
 <p>
 Revision control, build and release management, and system and network
 administration on many vendor versions of UNIX.
-<div class="no-break">
 <h2>
 Software Developer<span class="rj">Sci-Tec Instruments, 1990 - 1992</span>
 </h2>
@@ -249,7 +195,6 @@ Software Developer<span class="rj">Sci-Tec Instruments, 1990 - 1992</span>
 Embedded controller software development for Petro-Tag, a petroleum storage tank
 gauging system, and the Two-Axis Positioner, a lightweight, high-accuracy
 platform for aiming cameras and scientific instruments.
-</div>
 <h2>
 Software Developer (contract)<span class="rj">Robertson Stromberg, 1989 - 1990</span>
 </h2>
@@ -267,7 +212,6 @@ Education
 <p>
 B.Sc (High Honours), M.Sc. Computational Science, University of Saskatchewan
 </p>
-<div class="no-break">
 <h2>
 Publications
 </h2>
@@ -275,7 +219,6 @@ Publications
 “RPCC: A Stub Compiler for Sun RPC”, Student paper award, 1987 Summer USENIX conference.
 <p>
 “Perl and CORBA”, invited presentation at Perl Conference 2.0, August, 1998.
-</div>
 <h2>
 Patents
 </h2>
@@ -293,4 +236,4 @@ Computer system security service. June 2008: US 20080134286
 Computer system security service. March 2009: US 7512965
 <p>
 Computer system security service. July 2010: US 7757271
-</div>
+</body>
