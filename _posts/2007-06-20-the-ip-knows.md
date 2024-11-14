@@ -16,6 +16,6 @@ Kim Cameron [sums up the reasons](http://www.identityblog.com/?p=811) why we nee
 
 But I want to call out one assertion he (and he’s not the only one) makes:
 
-> Â First,Â part of whatÂ becomes evident isÂ that with browser-based technologies likeÂ Liberty, WS-Federation and OpenID, Â NO collusion is actually necessaryÂ for the identity provider to â€œsee everythingâ€&#157;.
+> First,Â part of whatÂ becomes evident isÂ that with browser-based technologies likeÂ Liberty, WS-Federation and OpenID, Â NO collusion is actually necessaryÂ for the identity provider to â€œsee everythingâ€&#157;.
 
 The identity provider most certainly does not “see everything”. The IP sees which RPs you initiate sessions with and, depending on configuration, has some indication of how long those sessions last. Granted, that is \*a lot\* of information, but it’s far from “everything”. The IP must collude with the RPs to get any information about what you did at the RP during the session.
