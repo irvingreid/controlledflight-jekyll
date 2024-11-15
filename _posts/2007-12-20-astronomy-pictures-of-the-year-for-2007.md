@@ -1,5 +1,4 @@
 ---
-id: 28
 title: 'Astronomy Pictures of the Year for 2007'
 date: '2007-12-20T11:06:18-05:00'
 author: irving

@@ -1,5 +1,4 @@
 ---
-id: 17
 title: 'Randall Munroe has Something to Apologize For'
 date: '2007-06-27T13:04:21-04:00'
 author: irving

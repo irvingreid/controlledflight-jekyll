@@ -1,5 +1,4 @@
 ---
-id: 30
 title: 'Interesting meditation on the festival of Las Posadas'
 date: '2007-12-27T15:16:24-05:00'
 author: irving

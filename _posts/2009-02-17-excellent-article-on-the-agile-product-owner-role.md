@@ -1,10 +1,8 @@
 ---
-id: 43
 title: 'Excellent article on the agile Product Owner role'
 date: '2009-02-17T11:13:41-05:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=43'
 permalink: /2009/02/17/excellent-article-on-the-agile-product-owner-role/
 categories:
     - Software

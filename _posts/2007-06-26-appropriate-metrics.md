@@ -1,5 +1,4 @@
 ---
-id: 16
 title: 'Align Your Metrics'
 date: '2007-06-26T22:38:31-04:00'
 author: irving

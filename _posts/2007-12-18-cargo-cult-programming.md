@@ -1,5 +1,4 @@
 ---
-id: 27
 title: 'Cargo Cult Programming'
 date: '2007-12-18T12:31:13-05:00'
 author: irving

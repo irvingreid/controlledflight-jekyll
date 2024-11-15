@@ -1,10 +1,8 @@
 ---
-id: 84
 title: 'Add-On Manager Progress'
 date: '2013-05-03T11:53:24-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=84'
 permalink: /2013/05/03/add-on-manager-progress/
 categories:
     - Mozilla

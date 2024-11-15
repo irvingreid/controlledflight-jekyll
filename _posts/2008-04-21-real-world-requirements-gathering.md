@@ -1,10 +1,8 @@
 ---
-id: 36
 title: 'Real World Requirements Gathering'
 date: '2008-04-21T11:43:29-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=36'
 permalink: /2008/04/21/real-world-requirements-gathering/
 categories:
     - IT

@@ -1,10 +1,8 @@
 ---
-id: 1
 title: 'Controlled Flight'
 date: '2007-04-27T22:42:10-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/blog/?p=1'
 permalink: /2007/04/27/welcome-to-controlled-flight-into-terrain/
 categories:
     - Software

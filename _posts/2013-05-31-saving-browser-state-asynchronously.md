@@ -1,10 +1,8 @@
 ---
-id: 107
 title: 'Saving browser state asynchronously'
 date: '2013-05-31T15:24:24-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=107'
 permalink: /2013/05/31/saving-browser-state-asynchronously/
 categories:
     - Mozilla

@@ -1,5 +1,4 @@
 ---
-id: 24
 title: 'Sad news&#8230;'
 date: '2007-07-27T12:52:16-04:00'
 author: irving

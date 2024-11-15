@@ -1,5 +1,4 @@
 ---
-id: 34
 title: 'Pascal Meunier on Teaching Secure Programming'
 date: '2008-04-17T09:45:09-04:00'
 author: irving

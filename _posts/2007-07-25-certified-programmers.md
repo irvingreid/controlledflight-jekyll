@@ -1,5 +1,4 @@
 ---
-id: 23
 title: 'Who Certifies the Certifiers?'
 date: '2007-07-25T21:37:34-04:00'
 author: irving

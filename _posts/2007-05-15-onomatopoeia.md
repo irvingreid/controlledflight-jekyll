@@ -1,5 +1,4 @@
 ---
-id: 4
 title: Onomatopoeia
 date: '2007-05-15T10:37:04-04:00'
 author: irving

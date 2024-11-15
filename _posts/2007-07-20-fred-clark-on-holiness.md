@@ -1,5 +1,4 @@
 ---
-id: 21
 title: 'Fred Clark on holiness'
 date: '2007-07-20T11:09:47-04:00'
 author: irving

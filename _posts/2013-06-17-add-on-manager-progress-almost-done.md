@@ -1,10 +1,8 @@
 ---
-id: 117
 title: 'Add-on Manager progress: Almost done!'
 date: '2013-06-17T10:05:42-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=117'
 permalink: /2013/06/17/add-on-manager-progress-almost-done/
 categories:
     - Mozilla

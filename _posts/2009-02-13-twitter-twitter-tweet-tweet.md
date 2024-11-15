@@ -1,10 +1,8 @@
 ---
-id: 41
 title: 'Twitter twitter tweet tweet?'
 date: '2009-02-13T14:26:58-05:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=41'
 permalink: /2009/02/13/twitter-twitter-tweet-tweet/
 categories:
     - Uncategorized

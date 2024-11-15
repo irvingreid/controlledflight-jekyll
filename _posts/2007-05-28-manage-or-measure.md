@@ -1,5 +1,4 @@
 ---
-id: 3
 title: 'Manage or Measure?'
 date: '2007-05-28T23:46:22-04:00'
 author: irving

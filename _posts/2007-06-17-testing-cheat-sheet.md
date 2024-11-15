@@ -1,5 +1,4 @@
 ---
-id: 13
 title: 'Software Testing Cheat Sheet'
 date: '2007-06-17T17:11:02-04:00'
 author: irving

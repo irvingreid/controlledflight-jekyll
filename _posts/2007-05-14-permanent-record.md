@@ -1,5 +1,4 @@
 ---
-id: 5
 title: 'This is going on your Permanent Record'
 date: '2007-05-14T10:27:41-04:00'
 author: irving

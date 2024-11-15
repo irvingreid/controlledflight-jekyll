@@ -1,5 +1,4 @@
 ---
-id: 12
 title: 'Fun introductions to RSS and Wikis'
 date: '2007-06-07T11:23:07-04:00'
 author: irving

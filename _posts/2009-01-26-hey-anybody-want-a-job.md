@@ -1,10 +1,8 @@
 ---
-id: 39
 title: 'Hey! Anybody want a job?'
 date: '2009-01-26T18:22:55-05:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=39'
 permalink: /2009/01/26/hey-anybody-want-a-job/
 categories:
     - 'Health Care'

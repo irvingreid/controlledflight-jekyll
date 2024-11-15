@@ -1,10 +1,8 @@
 ---
-id: 146
 title: 'A Mixed Bag of Telemetry'
 date: '2014-03-20T16:59:59-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=146'
 permalink: /2014/03/20/a-mixed-bag-of-telemetry/
 categories:
     - Mozilla

@@ -1,10 +1,8 @@
 ---
-id: 160
 title: 'How many Firefox extensions do people use?'
 date: '2014-06-02T22:33:55-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=160'
 permalink: /2014/06/02/how-many-firefox-extensions-do-people-use/
 categories:
     - Mozilla

@@ -1,10 +1,8 @@
 ---
-id: 45
 title: 'Computational Legal Studies'
 date: '2009-04-03T11:22:14-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=45'
 permalink: /2009/04/03/computational-legal-studies/
 categories:
     - IT

@@ -1,10 +1,8 @@
 ---
-id: 38
 title: "How can we tell when we're done?"
 date: '2008-05-26T23:06:39-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=38'
 permalink: /2008/05/26/how-can-we-tell-when-were-done/
 categories:
   - Software

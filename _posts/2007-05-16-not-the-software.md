@@ -1,5 +1,4 @@
 ---
-id: 6
 title: 'All Together Now'
 date: '2007-05-16T11:47:52-04:00'
 author: irving

@@ -1,5 +1,4 @@
 ---
-id: 18
 title: 'Quote of the Week'
 date: '2007-07-03T21:53:30-04:00'
 author: irving

@@ -1,5 +1,4 @@
 ---
-id: 29
 title: 'Nat Pryce has some good ideas about writing test code'
 date: '2007-12-26T15:50:07-05:00'
 author: irving

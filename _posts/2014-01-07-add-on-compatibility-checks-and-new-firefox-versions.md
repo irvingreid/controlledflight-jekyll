@@ -1,10 +1,8 @@
 ---
-id: 134
 title: 'Add-on compatibility checks and new Firefox versions'
 date: '2014-01-07T12:42:20-05:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=134'
 permalink: /2014/01/07/add-on-compatibility-checks-and-new-firefox-versions/
 categories:
     - Mozilla

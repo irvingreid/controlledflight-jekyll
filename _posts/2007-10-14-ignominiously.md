@@ -1,5 +1,4 @@
 ---
-id: 26
 title: Ignominiously
 date: '2007-10-14T22:04:24-04:00'
 author: irving

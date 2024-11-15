@@ -1,10 +1,8 @@
 ---
-id: 74
 title: 'Speeding up the Add-On Manager'
 date: '2013-04-01T11:52:33-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=74'
 permalink: /2013/04/01/speeding-up-the-add-on-manager/
 categories:
     - Mozilla

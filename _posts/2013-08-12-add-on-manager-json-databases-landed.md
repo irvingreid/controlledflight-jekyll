@@ -1,10 +1,8 @@
 ---
-id: 123
 title: 'Add-on Manager JSON databases landed!'
 date: '2013-08-12T16:00:02-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=123'
 permalink: /2013/08/12/add-on-manager-json-databases-landed/
 categories:
     - Mozilla

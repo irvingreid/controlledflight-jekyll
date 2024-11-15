@@ -1,5 +1,4 @@
 ---
-id: 15
 title: 'What Did the Identity Provider Know?'
 date: '2007-06-20T14:18:58-04:00'
 author: irving

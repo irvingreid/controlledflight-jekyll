@@ -1,10 +1,8 @@
 ---
-id: 165
 title: 'Telemetry Results for Add-on Compatibility Check'
 date: '2014-08-08T11:30:18-04:00'
 author: irving
 layout: post
-guid: 'http://www.controlledflight.ca/?p=165'
 permalink: /2014/08/08/telemetry-results-for-add-on-compatibility-check/
 categories:
     - Mozilla

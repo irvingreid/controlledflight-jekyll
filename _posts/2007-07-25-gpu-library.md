@@ -1,5 +1,4 @@
 ---
-id: 22
 title: "Now you're playing with power"
 date: '2007-07-25T15:32:49-04:00'
 author: irving
