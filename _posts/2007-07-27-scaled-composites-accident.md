@@ -14,4 +14,4 @@ categories:
 
 > LOS ANGELES (Reuters) – Three people were killed and three others critically injured on Thursday in an explosion at the California rocket-testing facilities operated by famed commercial spaceflight pioneer Burt Rutan, authorities said.
 
-NASA often gets criticized for being too conservative and risk-averse, but at the same time space flight is *extremely* dangerous work,Â and a tiny mistake can do a lot of damage.
+NASA often gets criticized for being too conservative and risk-averse, but at the same time space flight is *extremely* dangerous work, and a tiny mistake can do a lot of damage.

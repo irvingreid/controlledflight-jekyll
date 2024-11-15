@@ -18,6 +18,6 @@ Everybody needs to read this – business folks for guidance as to what those cr
 
 I particularly like the quote
 
-> I happily served my time on this XP project as a developer. Although I felt the product concept and release strategy was flawed, it wasnâ€™t my problem, [the hole was in their side of the boat](http://www.agileproductdesign.com/blog/agile_is_culture_not_process.html).
+> I happily served my time on this XP project as a developer. Although I felt the product concept and release strategy was flawed, it wasn't my problem, [the hole was in their side of the boat](http://www.agileproductdesign.com/blog/agile_is_culture_not_process.html).
 
 I think that’s one of the biggest problems with the silo-structured organization – all your incentives are to make sure the hole isn’t in your side of the boat, rather than keep the whole thing afloat.

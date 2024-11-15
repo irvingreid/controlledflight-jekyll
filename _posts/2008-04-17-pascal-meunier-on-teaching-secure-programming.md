@@ -12,4 +12,4 @@ categories:
 
 [CERIAS Weblogs Â» Speculations on Teaching Secure Programming](http://www.cerias.purdue.edu/weblogs/pmeunier/general/post-140/speculations-on-teaching-secure-programming/)
 
-> Security is somewhat of a habit, an attitude, a way of thinking and life. You wonâ€™t become a secure programmer just because you learned of a new vulnerability, exploit or security trick today, although it may help and have a cumulative effect.
+> Security is somewhat of a habit, an attitude, a way of thinking and life. You won't become a secure programmer just because you learned of a new vulnerability, exploit or security trick today, although it may help and have a cumulative effect.

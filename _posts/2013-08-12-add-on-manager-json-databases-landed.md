@@ -11,7 +11,7 @@ categories:
     - Software
 ---
 
-Felipe landed the Addon Repository ([**BugÂ 853389**](https://bugzilla.mozilla.org/show_bug.cgi?id=853389)) changes on Aug 1, so they rode the uplift train and are currently in Firefox Aurora (25). My changes for the XPI Provider ([**BugÂ 853388**](https://bugzilla.mozilla.org/show_bug.cgi?id=853388)), aside from the Telemetry measurements, landed on Sunday (Aug 11) and are in the latest nightly (Firefox 26). I still need to make some changes to the Telemetry patch and get that through reviews, but the core of the work is finally done.
+Felipe landed the Addon Repository ([**Bug 853389**](https://bugzilla.mozilla.org/show_bug.cgi?id=853389)) changes on Aug 1, so they rode the uplift train and are currently in Firefox Aurora (25). My changes for the XPI Provider ([**Bug 853388**](https://bugzilla.mozilla.org/show_bug.cgi?id=853388)), aside from the Telemetry measurements, landed on Sunday (Aug 11) and are in the latest nightly (Firefox 26). I still need to make some changes to the Telemetry patch and get that through reviews, but the core of the work is finally done.
 
 There are a few follow-up bugs that need to be prioritized and sorted out:
 

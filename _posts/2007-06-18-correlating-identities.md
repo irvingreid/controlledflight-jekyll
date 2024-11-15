@@ -14,7 +14,7 @@ categories:
 
 Paul points out that Kim is missing one possible form of collusion, in which a single site correlates repeated visits from an individual even though they don’t know that individual’s name. Kim, in response, asks:
 
-> ButÂ I have to admit that I have not personally been that interested in the use case of presenting â€œmanaged assertionsâ€&#157; to amnesiac web sites.Â In other words, IÂ think the cases where you would want a managed identity provider for completelyÂ amnesiac interactions are fairly few and far between.Â (If someone wants to turn me around me in this regard Iâ€™m wide open.)
+> But I have to admit that I have not personally been that interested in the use case of presenting "managed assertions"; to amnesiac web sites. In other words, I think the cases where you would want a managed identity provider for completely amnesiac interactions are fairly few and far between. (If someone wants to turn me around me in this regard I'm wide open.)
 
 It turns out that [Shibboleth](http://shibboleth.internet2.edu/), in particular, has a very clear requirement for this use case. [FERPA](http://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html) requires that educational institutions disclose the least possible information about students, staff and faculty to their partners. The example I heard, back in the early days of SAML, was of an institution that had a contract with an on-line case law research provider such that anyone affiliated with the law school at that institution could look up cases.
 

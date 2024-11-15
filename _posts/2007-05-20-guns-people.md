@@ -1,6 +1,6 @@
 ---
 id: 7
-title: 'Guns Don&#8217;t Kill People, People Kill People'
+title: "Guns Don't Kill People, People Kill People"
 date: '2007-05-20T23:00:25-04:00'
 author: irving
 layout: post
