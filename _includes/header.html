@@ -1,9 +1,6 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
+    <a class="site-title" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
     <nav class="site-nav">
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}
@@ -14,7 +11,8 @@
         <a class="page-link" href="{{ url }}">{{ link.title }}</a>
       {% endfor %}
     </nav>
-
+    <div class="subtitle">
+      Everything was going Just Fine until we ran into the real world.
+    </div>
   </div>
-
 </header>
