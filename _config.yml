@@ -1,13 +1,14 @@
-# url: "https://www.controlledflight.ca"
-url: "https://irvingreid.github.io/controlledflight-jekyll"
+url: "https://www.controlledflight.ca"
 title: "Controlled Flight Into Terrain"
 description: "Everything was going just fine until we ran into the real world"
 
 author: "Irving Reid"
 
+# Links to social media
 social:
   github: https://github.com/irvingreid
   mastodon: https://hachyderm.io/@irvingreid
+  linkedin: https://www.linkedin.com/in/irving-reid/
 
 # Build settings
 markdown:       kramdown
@@ -24,7 +25,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-
 permalink:      /:year/:month/:day/:title
 paginate_path: /page/:num/
 paginate:       10
@@ -37,9 +37,3 @@ jekyll-archives:
   permalinks:
     category: /category/:name/
     tag: /tags/:name/
-
-# Links to social media
-social:
-  github: https://github.com/irvingreid
-  mastodon: https://hachyderm.io/@irvingreid
-  linkedin: https://www.linkedin.com/in/irving-reid/
