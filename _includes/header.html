@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <nav class="site-nav">
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}
